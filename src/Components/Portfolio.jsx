@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: " Doctor Reservation System 🙂",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      " Aplatform designed to streamline the process of scheduling appointments with doctors . Aims to provide a convenient and efficient way for patients to book appointments.",
+  
   },
   {
-    title: "Web Development for Beginners",
+    title: "GIKI Assistant",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      " Asoftware application aiding students of GIK Institute to manage classes, assignments, and schedules.Developed using Python and integrates Google Calendar API and Google Maps API for notifications and navigation",
+  
   },
   {
-    title: "My Resume Site",
+    title: " Computer Organization & Assembly Language, 4096 x 17 Computer System",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      " Equipped with a 16-bit dual-bus architecture separating data lines from control bits.Instruction composed of addressing mode, op-code, and operand address.",
+    
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: " Hotel Management Reservation System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      " Engineered a comprehensive hotel reservation management system utilizing Flask to connect the back-end database with a user-friendly HTML-based web interface.",
+    url: "https://github.com/bforbilal2003/dbms-project.git",
   },
 ];
 
